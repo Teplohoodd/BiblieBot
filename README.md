@@ -6,10 +6,10 @@ To make the bot work you should:
 1. Change bot_token(before need create bot via botfather)
 2. Change directory to database
 3. Install necessary librares:
-   '''
+```
 pip install LxmlSoup
 pip install requests
 pip install schedule
 pip install telebot
 
-   '''
+```
