@@ -8,8 +8,13 @@ To make the bot work you should:
 3. Install necessary librares:
 ```
 pip install LxmlSoup
+```
+```
 pip install requests
+```
+```
 pip install schedule
+```
+```
 pip install telebot
-
 ```
